@@ -1,0 +1,45 @@
+
+body{
+    font-family: 12px Tahoma, Arial, Helvetica, sans-serif;
+    background-color: rgb(152, 152, 180)!important;
+}
+#description{
+    text-align: center;
+}
+.card-body{
+    background-color: #350c2f;
+    padding: 1px!important;
+}
+.card-title{
+    height:40px;
+    padding:10px;
+    background-color: #4f2248;
+    display:block;
+    color:#ffffff!important;
+    font-size:15px;
+}
+.card-description{
+    padding:10px;
+    background-color: #cbadc6;
+    margin-top:-10px;
+}
+.heading{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.satelite{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    padding: 10px;
+    row-gap: 10px;
+    justify-content: flex-start;
+    
+}
+.card{
+    padding: 10px;
+    margin: 5px;
+
+}
+
